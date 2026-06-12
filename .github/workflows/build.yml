@@ -12,6 +12,7 @@ on:
           - all
           - uz801
           - uf02
+          - jz01-45
 
 env:
   UPLOAD_FIRMWARE: true
